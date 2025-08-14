@@ -12,6 +12,7 @@
     "version": "7.3.0"
   },
   "dependencies": {
+    "colorjs.io": "^0.5.2",
     "hexo": "^7.3.0",
     "hexo-deployer-git": "^4.0.0",
     "hexo-generator-archive": "^2.0.0",
@@ -22,6 +23,8 @@
     "hexo-renderer-marked": "^7.0.0",
     "hexo-renderer-stylus": "^3.0.1",
     "hexo-server": "^3.0.0",
-    "hexo-theme-landscape": "^1.0.0"
+    "hexo-symbols-count-time": "^0.7.1",
+    "hexo-theme-landscape": "^1.0.0",
+    "stylus": "^0.64.0"
   }
 }
